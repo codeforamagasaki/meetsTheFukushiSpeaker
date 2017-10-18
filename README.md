@@ -1,2 +1,5 @@
 # meetsTheFukushiSpeaker
 ミーツザ福祉のスピーカ
+
+Arduino unoで動作確認済み
+Ubuntuでコンパイルしたけど、たぶんMacでもWinでもコンパイルできる筈です
